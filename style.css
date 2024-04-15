@@ -12,3 +12,9 @@ ol {
   color: rgb(220, 20, 147);
   font-size: 18px;
 }
+h3 {
+  color: rgb(54, 94, 16);
+  font-size: 19px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+}
