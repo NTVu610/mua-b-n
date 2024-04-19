@@ -1,3 +1,7 @@
+body {
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
 h1 {
   color: rgb(255, 55, 0);
   text-align: center;
@@ -6,9 +10,9 @@ h1 {
   text-transform: capitalize;
 }
 h3 {
-    color: rgb(54, 94, 16);
-    font-size: 19px;
-    font-style: italic;
+  color: rgb(54, 94, 16);
+  font-size: 19px;
+  font-style: italic;
 }
 a {
   color: rgb(98, 0, 255);
